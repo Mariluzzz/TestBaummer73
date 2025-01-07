@@ -15,7 +15,7 @@ Obs: caso já possua algumas das aplicações, não é necessário reinstala-la.
 
 2.1 Acesse a pasta htdocs dentro de xampp e clone o repositório usando o terminal do git bash.
 
-*Comando para clonar ->        git clone https://github.com/Mariluzzz/TestBaummer.git
+*Comando para clonar ->        git clone [https://github.com/Mariluzzz/TestBaummer.git](https://github.com/Mariluzzz/TestBaummer73.git)
 
 3. Configurando o banco de dados.
 
